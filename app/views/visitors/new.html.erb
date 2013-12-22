@@ -1,0 +1,5 @@
+<h3><%= @owner.name %></h3>
+<p>Приветствую на моей web-странице!</p>
+<p>Я родился <%= l(@owner.birthdate, format: :long) %> года.</p>
+<p>До моего дня рождения осталось <%= @owner.countdown %> дней!</p>
+<p>Я живу уже <%= @owner.longliving %> дней!</p>

@@ -31,6 +31,9 @@ gem 'jbuilder', '~> 1.2'
 
 # learn-rails
 
+# locale fix
+gem 'i18n', github: 'svenfuchs/i18n'
+
 # helps to use Rails without a database
 gem 'activerecord-tableless'
 

@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color"
+			],
+			[
+				"les",
+				"les3"
+			],
+			[
+				"bod",
+				"body	Tag"
+			],
+			[
+				"mou",
+				"mouthclix"
+			],
+			[
+				"no",
+				"noseclix"
+			],
+			[
+				"ey",
+				"eyesclix"
+			],
+			[
+				"he",
+				"head"
+			],
+			[
+				"mo",
+				"mouthclix"
+			],
+			[
+				"eyes",
+				"eyes"
+			],
+			[
+				"s",
+				"startLighting"
+			],
+			[
+				"in",
+				"int1"
+			],
+			[
+				"st",
+				"startLighting"
+			],
+			[
+				"cu",
+				"current_total"
+			],
+			[
+				"su",
+				"sumCardTotal"
+			],
+			[
+				"ha",
+				"hand"
+			],
+			[
+				"li",
+				"lightning_one"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"T",
+				"Tofu"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"po",
+				"portobello"
+			],
+			[
+				"fi",
+				"fish"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"sp",
+				"span	Tag"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"ho",
+				"hoverOff"
+			],
+			[
+				"hi",
+				"hideCode"
+			],
+			[
+				"ra",
+				"randomDigit"
+			],
+			[
+				"ge",
+				"getRandom"
+			],
+			[
+				"dis",
+				"discount"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"di",
+				"discount_msg"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"hea",
+				"head	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"widt",
+				"max-width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"titl",
+				"title	Tag"
+			],
+			[
+				"P",
+				"P	Tag"
+			],
+			[
+				"tru",
+				"true"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/models/owner.rb",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/denis/Dropbox/Rails/demo1/app/views/try/les6.html.erb",
+		"/Users/denis/Dropbox/Rails/demo1/public/styles/les6.css",
+		"/Users/denis/Dropbox/Rails/demo1/app/controllers/try_controller.rb",
+		"/Users/denis/Dropbox/Rails/demo1/public/styles/les5.css",
+		"/Users/denis/Dropbox/Rails/demo1/public/data/finishers.xml",
+		"/Users/denis/Dropbox/Rails/demo1/public/scripts/les5.js",
+		"/Users/denis/Dropbox/Rails/demo1/app/views/try/les5.html.erb",
+		"/Users/denis/Dropbox/Rails/demo1/app/views/try/les4.html.erb",
+		"/Users/denis/Dropbox/Rails/demo1/public/styles/les4.css",
+		"/Users/denis/Dropbox/Rails/demo1/app/views/try/les3.html.erb",
+		"/Users/denis/Dropbox/Rails/demo1/public/styles/les3.css",
+		"/Users/denis/Dropbox/Html&CSS&jQuery/jQuery/ch1p2/index.html",
+		"/Users/denis/Dropbox/Rails/demo1/public/scripts/les1.js",
+		"/Users/denis/Dropbox/Rails/demo1/app/views/try/les1.html.erb",
+		"/Users/denis/Dropbox/Html&CSS&jQuery/jQuery/ch1p1/index.html",
+		"/Users/denis/Dropbox/Rails/demo1/app/assets/javascripts/script.js",
+		"/Users/denis/Dropbox/Rails/demo1/app/views/layouts/application.html.erb",
+		"/Users/denis/Dropbox/Rails/demo1/app/views/jquery/lesson1.html.erb",
+		"/Users/denis/Dropbox/Rails/demo1/app/assets/javascripts/application.js",
+		"/Users/denis/Dropbox/Rails/demo1/app/assets/javascripts/jquery.js.coffee",
+		"/Users/denis/Dropbox/Html&CSS&jQuery/jQuery/ch8p1/scripts/my_scripts.js",
+		"/Users/denis/Dropbox/Html&CSS&jQuery/jQuery/ch8p1/index.html",
+		"/Users/denis/Dropbox/Html&CSS&jQuery/jQuery/ch8p1/finishers.xml",
+		"/Users/denis/Downloads/HF-jQuery-All-Code/ch08/end/scripts/my_scripts.js",
+		"/Users/denis/Downloads/HF-jQuery-All-Code/ch08.zip",
+		"/Users/denis/Html&CSS&jQuery/jQuery/ch4p1/scripts/scripts.js",
+		"/Users/denis/Html&CSS&jQuery/jQuery/ch4p1/styles/my_style.css",
+		"/Users/denis/Html&CSS&jQuery/jQuery/ch1p1/index.html",
+		"/Users/denis/Html&CSS&jQuery/jQuery/ch1p2/styles/my_style.css",
+		"/Users/denis/Html&CSS&jQuery/jQuery/ch1p2/index.html",
+		"/Users/denis/Html&CSS&jQuery/jQuery/ch1p2/scripts/scripts.js",
+		"/Users/denis/Html&CSS&jQuery/jQuery/ch4p1/style.css",
+		"/Users/denis/Html&CSS&jQuery/sample 3/starbuzz.css",
+		"/Users/denis/Html&CSS&jQuery/starbuzz/starbuzz.css",
+		"/Users/denis/Html&CSS&jQuery/jQuery/ch1p1/styles/my_style.css",
+		"/Users/denis/Html&CSS&jQuery/jQuery/ch1p2/slyles/my_style.css",
+		"/Users/denis/Html&CSS&jQuery/sample 3/index.html",
+		"/Users/denis/Html&CSS&jQuery/jQuery/scripts/jquery-1.9.1.min.js",
+		"/Users/denis/Html&CSS&jQuery/starbuzz/form.html",
+		"/Users/denis/Html&CSS&jQuery/jQuery/sample1.html",
+		"/Users/denis/Html&CSS&jQuery/scripts/sample1.html",
+		"/Users/denis/Html&CSS&jQuery/sample 1/mission.html",
+		"/Users/denis/Html&CSS&jQuery/sample 1/index.html",
+		"/Users/denis/Html&CSS&jQuery/sample2.html",
+		"/Users/denis/Html&CSS&jQuery/sample.html",
+		"/Users/denis/Dropbox/Концепции/sample.txt",
+		"/Users/denis/Ruby apps/depot/app/views/store/index.html.erb",
+		"/Users/denis/Ruby apps/depot/app/views/products/index.html.erb",
+		"/Users/denis/Ruby apps/depot/test/functional/products_controller_test.rb",
+		"/Users/denis/Ruby apps/depot/test/functional/store_controller_test.rb",
+		"/Users/denis/Ruby apps/depot/app/assets/stylesheets/application.css.scss",
+		"/Users/denis/Ruby apps/depot/app/assets/stylesheets/store.css.scss",
+		"/Users/denis/Downloads/code/rails32/depot_e/test/functional/store_controller_test.rb",
+		"/Users/denis/Ruby apps/depot/app/controllers/store_controller.rb",
+		"/Users/denis/Ruby apps/depot/app/assets/stylesheets/application.css",
+		"/Users/denis/Downloads/code/rails32/depot_d/app/views/store/index.html.erb",
+		"/Users/denis/Ruby apps/depot/app/views/layouts/application.html.erb",
+		"/Users/denis/Ruby apps/depot/app/assets/stylesheets/scaffolds.css.scss",
+		"/Users/denis/Dropbox/слова.txt",
+		"/Users/denis/Dropbox/слова1.txt",
+		"/Users/denis/Desktop/soft.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"свойствам",
+			"this",
+			"fadeIn",
+			"special",
+			"date",
+			"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/models/owner.rb",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
